@@ -123,3 +123,36 @@ Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 
 ## 2. Menambahkan Judul
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
+~~~
+<!-- judul paragraf pertama -->
+  <h1>Belajar Dasar HTML</h1>
+<!-- judul paragraf kedua -->
+  <h2>Paragraf pada HTML</h2>
+~~~
+Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
+### Modul Praktikum Pemrograman Web
+![Langkah 2 (Menambahkan Judul)](https://user-images.githubusercontent.com/81541764/113442930-2cb4b400-941b-11eb-81a1-f5085b6a0c1f.JPG)
+
+## 3. Memformat Teks
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+~~~
+<p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+    tag-tag dasar HTML.</p>
+~~~
+![Langkah 3 (Pemformatan Text)](https://user-images.githubusercontent.com/81541764/113443437-2ecb4280-941c-11eb-91be-a8c2aee35e67.JPG)
+Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
+### Tag<sub>
+  ~~~
+  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan.
+    Paragraf dibuat dengan menggunakan tag dasar html.</p>
+  ~~~
+  ![Langkah 3 (Pemformatan Text) (sub)](https://user-images.githubusercontent.com/81541764/113443601-7e117300-941c-11eb-9a6f-835d2960f4cf.JPG)
+### Tag<em>
+  ~~~
+  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari **<em>kalimat yang saling mendukung</em>** sehingga menjadi satu kesatuan.
+    Paragraf dibuat dengan menggunakan tag dasar html.</p>
+  ~~~
+  ![Langkah 3 (Pemformatan Text) huruf miring (em)](https://user-images.githubusercontent.com/81541764/113443927-11e33f00-941d-11eb-88db-7f21ae857c9a.JPG)
