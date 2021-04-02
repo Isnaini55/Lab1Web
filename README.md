@@ -195,7 +195,41 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 <!-- sub judul paragraf -->
 <h3>Menambahkan Gambar</h3>
 <!-- menambahkan gambar pada dokumen -->
-<img src="logo_pelita.jpg" width="200" title="Logo Univeritas Pelita Bangsa">
+<img src="logo_pelita.jpg" title="Logo Univeritas Pelita Bangsa">
 ~~~
 Simpan perubahannya, kemudian refresh browser.
 ![Langkah 4 (Menambahkan gambar)](https://user-images.githubusercontent.com/81541764/113446133-62f53200-9421-11eb-8cec-deecef403cfa.JPG)
+
+### Modul Praktikum Pemrograman Web
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+~~~
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
+~~~
+## 5. Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+~~~
+<!-- menambahkan link navigasi -->
+<nav>
+    <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr> 
+~~~
+
+![Langkah 5 (Hyperlink)](https://user-images.githubusercontent.com/81541764/113446601-47d6f200-9422-11eb-9d74-3182185fa60d.JPG)
+Buat satu file lagi dengan nama **lab1_halaman2.html** kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
+![Langkah 5 (Hyperlink) Halaman 2](https://user-images.githubusercontent.com/81541764/113446979-2c201b80-9423-11eb-8f35-53176dcdfab9.JPG)
+
+## Jawab Pertanyaan Berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
+   Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ),
+   apa yang terjadi pada masing-masing nilai antribut tersebut?
