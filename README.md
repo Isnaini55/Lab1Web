@@ -146,13 +146,13 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
 ### Tag<sub>
   ~~~
-  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan.
-    Paragraf dibuat dengan menggunakan tag dasar html.</p>
+  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari beberapa kalimat yang saling mendukung
+    sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   ~~~
   ![Langkah 3 (Pemformatan Text) (sub)](https://user-images.githubusercontent.com/81541764/113443601-7e117300-941c-11eb-9a6f-835d2960f4cf.JPG)
-### Tag<em>
+### Tag <em>
   ~~~
-  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari **<em>kalimat yang saling mendukung</em>** sehingga menjadi satu kesatuan.
-    Paragraf dibuat dengan menggunakan tag dasar html.</p>
+  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari <em>kalimat yang saling mendukung</em>
+    sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   ~~~
   ![Langkah 3 (Pemformatan Text) huruf miring (em)](https://user-images.githubusercontent.com/81541764/113443927-11e33f00-941d-11eb-88db-7f21ae857c9a.JPG)
