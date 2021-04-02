@@ -227,9 +227,24 @@ Buat satu file lagi dengan nama **lab1_halaman2.html** kemudian isi dokumen ters
 
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+   Iya. Ketika ada penulisan huruf, seharusnya huruf Kapital tetapi dituliskan huruf kecil. Maka akan terjadi error karena kesalahan dalam penulisan tag.
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
+   Tag br digunakan hanya untuk ganti baris. Sedangkan tag p benar-benar digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman.
+3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
+   **Alt text** ataupun **text alternatif** merupakan atribut yang bisa ditambahkan ke dalam tag gambar dalam HTML.
+   Teks ini akan muncul pada wadah gambar ketika gambar tidak ditampilkan. Ini akan membantu mesin pencari bisa memahami apa isi gambar tersebut.
+   Text alternatif juga membantu dalam kasus ketika gambar tidak ditemukan pada halaman maupun ketika gambar rusak. Sedangkan **Title img** merupakan
+   atribut lain yang bisa ditambahkan ke dalam tag gambar dalam HTML. Title image ini dipakai untuk memberikan judul untuk gambar milik Anda.
+   Text yang Anda masukkan pada tag judul tidak akan ditampilkan pada setiap pengguna ketika gambar tidak bisa ditampilkan. Sebaliknya,
+   tag judul gambar ini akan ditampilkan saat Anda menyorot gambar dengan menggunakan kursor mouse.
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
    Berikan penjelasannya!
+   Agar tampilan proporsional sebaiknya width dan height diisi semua. Akan tetapi, angka yang ditampilkan sebaiknya sesuai dengan ukuran gambar (proporsional)
+   sehingga bentuk gambar yang ditampilkan tidak mengalami distorsi. 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ),
    apa yang terjadi pada masing-masing nilai antribut tersebut?
+   _self adalah pilihan default, bila kita tidak menentukan target, link akan dibuka pada window browser atau frame yang sama.
+   _top memuat ke window terluar (di luar semua frame yang ada).
+   _Blank membuka link pada browser window baru.
+   _Parent membuka link pada frame induk.
+   
