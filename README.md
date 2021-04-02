@@ -144,15 +144,42 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 ~~~
 ![Langkah 3 (Pemformatan Text)](https://user-images.githubusercontent.com/81541764/113443437-2ecb4280-941c-11eb-91be-a8c2aee35e67.JPG)
 Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
-### Tag<sub>
+### Tag sub - Subscript text
   ~~~
   <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari beberapa kalimat yang saling mendukung
     sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   ~~~
   ![Langkah 3 (Pemformatan Text) (sub)](https://user-images.githubusercontent.com/81541764/113443601-7e117300-941c-11eb-9a6f-835d2960f4cf.JPG)
-### Tag <em>
+### Tag em - Emphasized text
   ~~~
   <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari <em>kalimat yang saling mendukung</em>
     sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   ~~~
   ![Langkah 3 (Pemformatan Text) huruf miring (em)](https://user-images.githubusercontent.com/81541764/113443927-11e33f00-941d-11eb-88db-7f21ae857c9a.JPG)
+### Tag strong - Important text
+~~~
+  <p align="justify">Ini merupakan <sub>sebuah paragraf</sub> yang terdiri dari <em>kalimat yang saling mendukung</em>
+    sehingga menjadi satu <strong>kesatuan</strong>. Paragraf dibuat dengan menggunakan tag dasar html.</p>
+~~~
+![Langkah 3 (Pemformatan Text)  strong](https://user-images.githubusercontent.com/81541764/113444892-f5e09d00-941e-11eb-85fc-c9af5d1c06ba.JPG)
+### Tag sup - Superscript text
+~~~
+  <p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi 
+    <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama yang kami dapat
+    <sup>adalah membuat </sup> tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+~~~
+![Langkah 3 (Pemformatan Text) (sup)](https://user-images.githubusercontent.com/81541764/113445112-71424e80-941f-11eb-93d9-ecd5bb33113c.JPG)
+### Tag del - Deleted text
+~~~
+ <p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi 
+    <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama yang kami dapat
+    <sup>adalah membuat </sup> tampilan <del>web sederhana</del> dalam rangka mengenal tag-tag dasar HTML.</p>
+~~~
+![Langkah 3 (Pemformatan Text) (del)](https://user-images.githubusercontent.com/81541764/113445330-e31a9800-941f-11eb-9e19-b77a956fe00b.JPG)
+### Tag small - Smaller text
+~~~
+ <p align="justify">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi 
+    <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama yang kami dapat
+    <sup>adalah membuat </sup> tampilan <del>web sederhana</del> dalam rangka mengenal tag-tag dasar HTML.</p>
+~~~
+![Langkah 3 (Pemformatan Text) (small)](https://user-images.githubusercontent.com/81541764/113445523-3987d680-9420-11eb-8e3e-818643e11e24.JPG)
