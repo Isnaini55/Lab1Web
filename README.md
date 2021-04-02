@@ -183,3 +183,17 @@ Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
     <sup>adalah membuat </sup> tampilan <del>web sederhana</del> dalam rangka mengenal tag-tag dasar HTML.</p>
 ~~~
 ![Langkah 3 (Pemformatan Text) (small)](https://user-images.githubusercontent.com/81541764/113445523-3987d680-9420-11eb-8e3e-818643e11e24.JPG)
+
+## 4. Menyisipkan Gambar
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.
+
+### Modul Praktikum Pemograman WEB
+![4](https://user-images.githubusercontent.com/81541764/113445705-9c796d80-9420-11eb-8b40-99b7e63506b5.JPG)
+
+Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
+~~~
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="logo_pelita.jpg" width="200" title="Logo Univeritas Pelita Bangsa">
+~~~
