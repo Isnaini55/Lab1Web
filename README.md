@@ -18,5 +18,5 @@ Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar 
 
 ### Modul Praktikum Pemograman WEB
 
-Kemudian selanjutnya, buka file tersebut pada web browser misalnya ### Mozilla Firefox.
-![Dasar 0](https://user-images.githubusercontent.com/81541764/113439172-3686e900-9414-11eb-9a20-89551a756ec7.JPG)
+Kemudian selanjutnya, buka file tersebut pada web browser misalnya **Mozilla Firefox**.
+![Dasar 0](https://user-images.githubusercontent.com/81541764/113439399-b1500400-9414-11eb-976b-8b942d61fdb2.JPG)
