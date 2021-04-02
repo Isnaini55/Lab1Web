@@ -96,11 +96,15 @@ Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 ### Align Left
 ~~~
 <!-- Ini adalah paragraf pertama -->
-<p align=”left”>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+<p align=”left”>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman 
+    Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama 
+    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal 
+    tag-tag dasar HTML.</p>
  <!-- Ini adalah paragraf kedua -->
-<p align=”left”>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
-~~~
-![Langkah 1 (Membuat Paragraf) align left](https://user-images.githubusercontent.com/81541764/113442024-7a302180-9419-11eb-9b20-8808d4bbbebf.JPG)
+<p align=”left”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
+    dengan menggunakan tag dasar html.</p>
+~~~![Langkah 1 (Membuat Paragraf) align left](https://user-images.githubusercontent.com/81541764/113442024-7a302180-9419-11eb-9b20-8808d4bbbebf.JPG)
 
 ### Align Center
 ~~~
@@ -116,3 +120,5 @@ Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 ~~~
 ![Langkah 1 (Membuat Paragraf) align center](https://user-images.githubusercontent.com/81541764/113442144-b8c5dc00-9419-11eb-8dcb-e6256345cdc3.JPG)
 
+## 2. Menambahkan Judul
+Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
