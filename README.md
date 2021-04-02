@@ -17,4 +17,6 @@ Persiapan membuka VSCode dan Browser.
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
 
 ### Modul Praktikum Pemograman WEB
+
+Kemudian selanjutnya, buka file tersebut pada web browser misalnya ### Mozilla Firefox.
 ![Dasar 0](https://user-images.githubusercontent.com/81541764/113439172-3686e900-9414-11eb-9a20-89551a756ec7.JPG)
