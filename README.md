@@ -11,5 +11,8 @@ NIM   : 311910254
 Kelas : TI.19.C1
 ~~~
 ## Langkah-langkah Praktikum
-Persiapan membuka VSCode dan Browser
+Persiapan membuka VSCode dan Browser.
 ![VSCode](https://user-images.githubusercontent.com/81541764/113438810-831df480-9413-11eb-8b22-9707c889a216.JPG)
+
+~~~
+Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
