@@ -5,7 +5,6 @@
 # Pemograman WEB
 
 ~~~
-
 Nama  : Isnaini Rizkyana
 NIM   : 311910254
 Kelas : TI.19.C1
@@ -25,7 +24,7 @@ Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar 
   <body>
   </body>
 </html>
-
+~~~
 ### Modul Praktikum Pemograman WEB
 
 Kemudian selanjutnya, buka file tersebut pada web browser misalnya **Mozilla Firefox**.
