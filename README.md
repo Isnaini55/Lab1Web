@@ -188,7 +188,7 @@ Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.
 
 ### Modul Praktikum Pemograman WEB
-![4](https://user-images.githubusercontent.com/81541764/113445705-9c796d80-9420-11eb-8b40-99b7e63506b5.JPG)
+![4](https://user-images.githubusercontent.com/81541764/113446191-84eeb480-9421-11eb-81cd-99bb6c7aa664.JPG)
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
 ~~~
@@ -197,3 +197,5 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 <!-- menambahkan gambar pada dokumen -->
 <img src="logo_pelita.jpg" width="200" title="Logo Univeritas Pelita Bangsa">
 ~~~
+Simpan perubahannya, kemudian refresh browser.
+![Langkah 4 (Menambahkan gambar)](https://user-images.githubusercontent.com/81541764/113446133-62f53200-9421-11eb-8cec-deecef403cfa.JPG)
