@@ -104,7 +104,8 @@ Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 <p align=”left”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
     dengan menggunakan tag dasar html.</p>
-~~~![Langkah 1 (Membuat Paragraf) align left](https://user-images.githubusercontent.com/81541764/113442024-7a302180-9419-11eb-9b20-8808d4bbbebf.JPG)
+~~~
+![Langkah 1 (Membuat Paragraf) align left](https://user-images.githubusercontent.com/81541764/113442024-7a302180-9419-11eb-9b20-8808d4bbbebf.JPG)
 
 ### Align Center
 ~~~
